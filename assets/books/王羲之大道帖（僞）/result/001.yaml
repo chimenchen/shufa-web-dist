@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/大道帖/images/001.webp
+width = 640
+height = 1378
+kernel_size = 8
+max_gap_value_from = 500
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 大道久不下天先未然耶
+zi_list = 311,125,443,284;302,297,445,502;333,497,439,688;339,678,465,825;348,827,463,945;365,987,453,1112;379,1123,516,1284;174,120,285,330;172,320,305,512;179,520,329,1342
+

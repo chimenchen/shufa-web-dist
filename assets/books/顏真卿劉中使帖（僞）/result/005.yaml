@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/劉中使帖/images/005.webp
+width = 366
+height = 839
+kernel_size = 3
+max_gap_value_from = 95
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 舍利將軍擒 獲之吁足慰也
+zi_list = 233,47,302,233;192,227,307,422;207,422,317,552;221,547,329,735;208,701,353,824;52,26,198,213;98,196,185,301;64,310,181,454;90,456,166,568;26,568,194,769;87,730,207,816
+

@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/劉中使帖/images/003.webp
+width = 318
+height = 839
+kernel_size = 3
+max_gap_value_from = 65
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 足慰海隅之心耳
+zi_list = 164,35,236,161;132,165,264,325;154,343,284,479;166,508,281,624;209,613,283,722;182,737,293,819;11,34,122,808
+

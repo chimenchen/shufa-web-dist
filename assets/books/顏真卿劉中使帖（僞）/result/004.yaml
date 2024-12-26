@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/劉中使帖/images/004.webp
+width = 340
+height = 839
+kernel_size = 3
+max_gap_value_from = 95
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 又聞磁州為 盧子期所圍
+zi_list = 151,42,288,165;170,150,305,296;132,337,313,513;189,502,319,689;213,648,327,807;29,51,119,216;44,212,103,335;24,341,130,478;28,504,140,610;26,621,179,800
+

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset=utf-8>
+        <title>書法練習生</title>
+        <link href=/shufa.css rel=stylesheet>
+        <base href= />
+        <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name=viewport>
+        <link as=fetch crossorigin href=/shufa-web_bg.wasm rel=preload type=application/wasm>
+        <link crossorigin href=/shufa-web.js rel=modulepreload>
+    </head>
+
+    <body>
+        <script type=module>
+            import a,*as b from"/shufa-web.js";
+            a(`/shufa-web_bg.wasm`);
+            window.wasmBindings=b
+        </script>
+    </body>
+</html>
