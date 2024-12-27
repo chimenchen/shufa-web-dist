@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/米芾多景樓詩/images/005.jpg
+width = 1065
+height = 1213
+kernel_size = 23
+max_gap_value_from = 30
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 靈入迢2溟
+zi_list = 536,71,896,565;481,672,896,935;50,59,475,425;41,741,351,1125
+

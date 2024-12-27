@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/米芾多景樓詩/images/007.jpg
+width = 1090
+height = 1260
+kernel_size = 23
+max_gap_value_from = 30
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 分坱圠方輿露
+zi_list = 591,74,850,394;563,420,837,753;529,815,891,1088;159,49,373,362;24,374,410,835;119,829,367,1203
+

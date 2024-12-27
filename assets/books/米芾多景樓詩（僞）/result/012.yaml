@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/米芾多景樓詩/images/012.jpg
+width = 1096
+height = 1254
+kernel_size = 23
+max_gap_value_from = 30
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 怒翼搏千
+zi_list = 650,71,990,444;705,509,968,1075;211,58,574,566;198,632,532,1124
+

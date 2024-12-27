@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/中郎帖/images/004.jpg
+width = 1080
+height = 3220
+kernel_size = 6
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 為心奈何奈何安疏
+zi_list = 702,89,938,369;733,480,941,599;743,712,929,950;711,1076,924,1277;772,1372,935,1622;766,1639,958,1936;734,2022,988,2244;758,2313,988,2528
+

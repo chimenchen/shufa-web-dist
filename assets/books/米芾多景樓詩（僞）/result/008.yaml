@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/米芾多景樓詩/images/008.jpg
+width = 1060
+height = 1319
+kernel_size = 23
+max_gap_value_from = 30
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 頂矗昭回列緯
+zi_list = 684,76,954,373;694,398,924,838;684,886,930,1137;235,68,578,315;208,346,475,745;203,763,468,1239
+
