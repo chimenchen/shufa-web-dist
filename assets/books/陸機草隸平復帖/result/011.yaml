@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/草隸平復帖/images/011.webp
+width = 539
+height = 5000
+kernel_size = 4
+max_gap_value_from = 92
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 量之邁前執所恒有宜
+zi_list = 28,80,405,699;142,787,459,1099;80,1235,460,1862;115,2004,485,2505;135,2564,515,2953;125,3077,462,3480;140,3472,494,3856;188,3876,472,4295;124,4385,501,4798
+

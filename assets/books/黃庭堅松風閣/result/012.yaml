@@ -1,0 +1,14 @@
+[settings]
+filename = 012.jpg
+width = 1372
+height = 2313
+dust_size = 4
+max_gap_value_from = 71
+max_gap_value_add_up_to = 30
+c_w_from = 0.2
+c_w_to = 1.2
+threshold = 0
+is_paper_white = True
+text = 舟載諸友長周旋。
+zi_list = 935,136,1317,544;952,556,1322,1002;907,1043,1343,1410;973,1465,1300,1780;983,1826,1265,2129;570,114,816,529;384,529,883,909
+

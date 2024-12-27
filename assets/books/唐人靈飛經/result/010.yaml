@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/靈飛經/images/010.jpg
+width = 1280
+height = 960
+kernel_size = 4
+max_gap_value_from = 33
+max_gap_value_add_up_to = 30
+c_w_from = 0.3
+c_w_to = 1.0
+is_paper_white = True
+text = 清六甲真書當皆列盟
+zi_list = 980,81,1278,371;963,462,1262,599;1042,738,1226,959;457,45,809,328;483,378,786,640;518,695,791,938;105,104,316,345;80,374,304,624;60,681,357,908
+

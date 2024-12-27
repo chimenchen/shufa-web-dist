@@ -1,0 +1,14 @@
+[settings]
+filename = 009.jpg
+width = 1080
+height = 2416
+dust_size = 4
+max_gap_value_from = 71
+max_gap_value_add_up_to = 30
+c_w_from = 0.2
+c_w_to = 1.2
+threshold = 0
+is_paper_white = True
+text = 見寒溪有炊煙。東坡道人
+zi_list = 640,129,956,537;670,547,1058,1001;647,998,963,1409;682,1447,901,1843;575,1885,973,2254;92,146,475,585;134,645,510,1048;97,1071,488,1414;54,1444,488,1860;61,1944,452,2180
+

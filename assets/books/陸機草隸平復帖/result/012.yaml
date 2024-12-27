@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/草隸平復帖/images/012.webp
+width = 547
+height = 5000
+kernel_size = 4
+max_gap_value_from = 92
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 稱之夏伯榮寇亂之際聞
+zi_list = 31,87,369,597;174,685,408,921;125,1064,379,1532;143,1665,406,1892;138,1964,522,2413;190,2538,519,3168;162,3189,529,3630;246,3708,453,3978;158,4100,526,4560;177,4562,478,4950
+

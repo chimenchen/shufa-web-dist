@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/草隸平復帖/images/007.webp
+width = 548
+height = 5000
+kernel_size = 4
+max_gap_value_from = 92
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 使唯男幸為復失前憂耳
+zi_list = 178,114,439,367;169,482,431,759;161,903,427,1328;158,1464,448,1927;179,1961,439,2269;165,2395,546,2808;175,2912,456,3285;167,3376,413,3755;162,3768,434,4228;171,4268,467,4963
+

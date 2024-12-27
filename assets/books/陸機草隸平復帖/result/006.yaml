@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/草隸平復帖/images/006.webp
+width = 474
+height = 5000
+kernel_size = 4
+max_gap_value_from = 92
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 屬初病慮不止此已為慶承
+zi_list = 118,39,368,513;76,479,448,907;62,948,397,1487;97,1508,291,1905;123,1975,318,2363;85,2409,368,2598;64,2788,401,2921;103,3328,325,3586;96,3675,290,3990;97,4060,343,4503;89,4471,308,4848
+
