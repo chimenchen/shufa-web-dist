@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/懷素自敘帖/images/034.jpg
+width = 1275
+height = 1755
+kernel_size = 13
+max_gap_value_from = 57
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 形恠狀飜合宜人欲問此
+zi_list = 583,124,851,472;580,490,850,722;592,752,884,986;484,1027,940,1526;310,96,436,366;288,354,469,594;203,594,518,848;263,1029,443,1285;288,1270,474,1424;297,1490,468,1649
+

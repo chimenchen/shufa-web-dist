@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/懷素自敘帖/images/046.jpg
+width = 1275
+height = 1755
+kernel_size = 13
+max_gap_value_from = 39
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 固非虛 之所
+zi_list = 504,149,1017,812;487,729,1152,1192;701,1186,1072,1658;154,1116,341,1439;137,1439,503,1689
+

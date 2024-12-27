@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/懷素自敘帖/images/042.jpg
+width = 1275
+height = 1755
+kernel_size = 13
+max_gap_value_from = 39
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 遠錫無前侶孤雲寄太虛
+zi_list = 726,69,936,437;736,437,978,746;679,746,1036,1016;769,1009,1076,1301;771,1348,1045,1624;219,38,620,347;330,422,574,736;395,742,673,1195;456,1207,634,1393;510,1427,628,1660
+
