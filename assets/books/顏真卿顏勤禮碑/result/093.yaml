@@ -1,0 +1,12 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/颜勤礼碑/images/093.jpg
+width = 1575
+height = 2284
+kernel_size = 7
+max_gap_value_from = 300
+max_gap_value_add_up_to = 4
+c_w_from = 0.5
+c_w_to = 1.5
+text = 曰
+zi_list = 995,118,1273,364
+
