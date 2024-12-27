@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/王羲之尺牍/images/017.jpg
+width = 1990
+height = 3000
+kernel_size = 3
+max_gap_value_from = 51
+max_gap_value_add_up_to = 30
+c_w_from = 0.3
+c_w_to = 1.5
+is_paper_white = True
+text = 不具。羲之報。
+zi_list = 1510,299,1722,439;1607,475,1678,751;1538,868,1763,1297;1582,1325,1663,1550;1520,1536,1760,1839
+
