@@ -1,0 +1,14 @@
+[settings]
+filename = 006.jpg
+width = 877
+height = 3551
+dust_size = 4
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.2
+c_w_to = 1.1
+threshold = 0
+is_paper_white = True
+text = 坐主久上人。五月廿二日
+zi_list = 525,51,664,253;547,293,657,477;510,532,723,701;503,741,646,859;435,876,809,1049;552,2250,715,2352;576,2364,683,2566;528,2577,727,2673;519,2704,728,2803;621,2859,689,2936
+

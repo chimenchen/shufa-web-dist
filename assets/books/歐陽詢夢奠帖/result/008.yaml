@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/夢奠帖/images/008.webp
+width = 740
+height = 3614
+kernel_size = 6
+max_gap_value_from = 425
+max_gap_value_add_up_to = 30
+c_w_from = 0.3
+c_w_to = 1.5
+is_paper_white = True
+text = 隨形，必不差二。
+zi_list = 387,121,661,405;420,526,609,778;391,885,663,1090;428,1239,679,1459;446,1563,637,1903;460,2014,629,2154
+

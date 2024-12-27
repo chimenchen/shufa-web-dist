@@ -1,0 +1,14 @@
+[settings]
+filename = 002.jpg
+width = 904
+height = 3605
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 軾啟。辱書，承
+zi_list = 387,47,636,278;312,390,591,610;345,688,576,959;8,47,259,313;44,357,241,561
+

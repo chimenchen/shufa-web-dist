@@ -1,0 +1,14 @@
+[settings]
+filename = 001.jpg
+width = 1280
+height = 675
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = {故三司副使吏部陳公，軾不及見其人。然少時所識一時名卿勝士，多推尊之。爾來前輩雕喪略盡，能稱誦公者，漸不復見。得其理言遺事，皆當記錄寶藏，況其文章乎？公之孫師仲，錄公之詩廿五篇以示，軾三復太息，以想見公之大略云。元豐四年十一月廿二日，眉陽蘇軾書。 }
+zi_list = 
+

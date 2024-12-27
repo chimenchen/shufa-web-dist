@@ -1,0 +1,14 @@
+[settings]
+filename = 001.jpg
+width = 1280
+height = 1095
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = {釋文 ：軾啟。辱書，承法體安隱，甚慰想念。北遊五年，塵垢所蒙，已化為俗吏矣。不知林下高人猶復不忘耶!未由會見，萬萬自重。不宣。軾頓首，坐主久上人。五月廿二日。?}
+zi_list = 
+

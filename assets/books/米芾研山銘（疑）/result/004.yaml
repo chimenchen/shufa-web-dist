@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/米芾研山銘/images/004.jpg
+width = 989
+height = 1460
+kernel_size = 3
+max_gap_value_from = 148
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 震霆澤極變化
+zi_list = 614,144,864,552;616,618,871,942;614,1006,873,1427;118,84,394,460;107,507,340,930;73,1021,448,1264
+
