@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/新恩帖/images/008.webp
+width = 314
+height = 1800
+kernel_size = 12
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 三月三日上
+zi_list = 154,1154,258,1268;180,1271,270,1428;173,1452,260,1558;205,1560,260,1642;201,1659,281,1728
+

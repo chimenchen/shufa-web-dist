@@ -1,0 +1,14 @@
+[settings]
+filename = 003.jpg
+width = 480
+height = 3834
+dust_size = 5
+max_gap_value_from = 92
+max_gap_value_add_up_to = 30
+c_w_from = 1.0
+c_w_to = 2.0
+threshold = 0
+is_paper_white = True
+text = 目。但怵以相知。難卻爾。
+zi_list = 130,15,301,293;47,388,353,710;59,734,456,1162;83,1266,468,1424;31,1587,337,1920;51,2063,369,2365;35,2492,416,3000;99,3099,321,3516;79,3599,369,3818
+

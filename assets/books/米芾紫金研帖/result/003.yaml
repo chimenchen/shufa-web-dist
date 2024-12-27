@@ -1,0 +1,14 @@
+[settings]
+filename = 003.jpg
+width = 440
+height = 2181
+dust_size = 5
+max_gap_value_from = 48
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 紫金研去。囑其子
+zi_list = 107,21,336,371;115,383,406,661;79,717,325,973;180,995,273,1239;38,1271,348,1644;112,1645,325,1941;139,1959,309,2129
+

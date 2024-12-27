@@ -1,0 +1,14 @@
+[settings]
+filename = 004.jpg
+width = 383
+height = 1786
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 世契，感悵不已。辱
+zi_list = 64,35,294,175;82,224,269,470;47,510,353,777;53,822,344,1081;123,1098,291,1245;143,1290,267,1410;29,1474,278,1749
+

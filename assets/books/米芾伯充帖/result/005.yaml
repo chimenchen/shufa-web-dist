@@ -1,0 +1,14 @@
+[settings]
+filename = 005.jpg
+width = 480
+height = 3629
+dust_size = 5
+max_gap_value_from = 92
+max_gap_value_add_up_to = 30
+c_w_from = 1.0
+c_w_to = 2.0
+threshold = 0
+is_paper_white = True
+text = 行。奉數字。草{草}。芾{頓首}。
+zi_list = 86,52,367,461;108,544,330,934;75,983,439,1429;90,1508,334,1876;127,1947,315,2270;108,2585,352,3096
+

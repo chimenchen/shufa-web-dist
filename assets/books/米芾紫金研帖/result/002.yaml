@@ -1,0 +1,14 @@
+[settings]
+filename = 002.jpg
+width = 440
+height = 2224
+dust_size = 5
+max_gap_value_from = 48
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 蘇子瞻攜吾
+zi_list = 97,58,356,482;98,545,302,850;114,873,348,1210;116,1258,330,1673;70,1765,312,2146
+

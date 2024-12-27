@@ -1,0 +1,14 @@
+[settings]
+filename = 009.jpg
+width = 452
+height = 1791
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 知縣朝奉閣下
+zi_list = 75,20,391,225;79,225,378,502;77,592,356,853;83,899,415,1237;86,1305,345,1552;156,1578,276,1720
+

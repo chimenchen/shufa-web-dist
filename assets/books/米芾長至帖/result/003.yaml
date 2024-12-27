@@ -1,0 +1,14 @@
+[settings]
+filename = 003.jpg
+width = 784
+height = 1969
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 51
+is_paper_white = True
+text = 公議於清朝，振斯文於來世。
+zi_list = 587,44,696,144;542,166,727,406;534,447,694,599;306,38,428,239;270,280,447,471;280,536,471,707;75,46,209,233;91,256,213,414;73,459,207,631;73,686,193,883;48,920,205,1030
+

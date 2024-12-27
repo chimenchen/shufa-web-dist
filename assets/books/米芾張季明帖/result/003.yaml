@@ -1,0 +1,14 @@
+[settings]
+filename = 003.jpg
+width = 480
+height = 2176
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = （{-氣})深，不審
+zi_list = 136,60,338,397;141,466,323,697;168,758,293,955;143,957,314,1231
+

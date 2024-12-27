@@ -1,0 +1,14 @@
+[settings]
+filename = 006.jpg
+width = 480
+height = 1666
+dust_size = 5
+max_gap_value_from = 92
+max_gap_value_add_up_to = 30
+c_w_from = 1.0
+c_w_to = 2.0
+threshold = 0
+is_paper_white = True
+text = 伯充台坐。
+zi_list = 12,72,430,471;134,473,421,884;154,931,339,1215;146,1254,364,1600
+
