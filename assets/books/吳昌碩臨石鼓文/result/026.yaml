@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/吴昌硕临石鼓文/images/026.jpg
+width = 1626
+height = 2330
+kernel_size = 3
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 鹿如多賢申禽允異
+zi_list = 1202,135,1469,517;1193,555,1476,902;1217,949,1435,1328;1213,1364,1450,1762;1197,1773,1470,2154;859,131,1076,528;886,537,1107,958;851,979,1088,1381
+

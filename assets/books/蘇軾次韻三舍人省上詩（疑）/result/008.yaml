@@ -1,0 +1,14 @@
+[settings]
+filename = 008.jpg
+width = 710
+height = 1291
+dust_size = 5
+max_gap_value_from = 30
+max_gap_value_add_up_to = 30
+c_w_from = 0.2
+c_w_to = 1.5
+threshold = 93
+is_paper_white = True
+text = 翠輦朝宣光。
+zi_list = 366,88,645,494;425,495,594,841;357,908,639,1189;83,82,322,298;63,312,366,536
+

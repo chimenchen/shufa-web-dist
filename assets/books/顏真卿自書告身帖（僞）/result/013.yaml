@@ -1,0 +1,14 @@
+[settings]
+filename = 013.jpg
+width = 1775
+height = 2439
+dust_size = 50
+max_gap_value_from = 205
+max_gap_value_add_up_to = 392
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 建中元年八月廿八日下
+zi_list = 20,239,286,531;96,572,258,803;90,846,306,1046;76,1087,277,1365;97,1379,351,1503;133,1469,276,1713;94,1743,295,1885;100,1895,341,2047;165,2022,271,2171;121,2202,273,2392
+
