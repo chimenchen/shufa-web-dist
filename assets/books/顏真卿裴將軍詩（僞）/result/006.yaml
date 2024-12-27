@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/裴將軍詩/images/006.jpg
+width = 1178
+height = 1080
+kernel_size = 3
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = False
+text = 風縈且逥登高望天山白雪
+zi_list = 875,65,1076,302;858,308,1060,575;908,565,1044,739;906,740,1167,990;463,109,649,320;478,361,685,624;458,656,706,948;107,92,317,291;79,291,312,498;116,497,291,679;144,677,304,970
+

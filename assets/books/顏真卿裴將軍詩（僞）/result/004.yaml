@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/裴將軍詩/images/004.jpg
+width = 1178
+height = 1080
+kernel_size = 3
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = False
+text = 陵何壯哉將軍臨北荒怛
+zi_list = 847,69,1102,383;809,374,1070,559;859,552,1073,752;869,699,1093,953;444,69,652,248;471,237,659,1000;74,69,329,325;97,331,344,494;109,479,341,760;85,763,368,992
+

@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/裴將軍詩/images/008.jpg
+width = 1178
+height = 1080
+kernel_size = 3
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = False
+text = 雄震雷一射百馬倒再射萬
+zi_list = 825,107,1043,295;859,356,1058,687;864,723,1058,943;414,147,635,196;443,184,658,381;539,368,609,460;499,483,606,622;441,644,724,961;138,88,261,300;91,288,345,667;91,643,353,958
+

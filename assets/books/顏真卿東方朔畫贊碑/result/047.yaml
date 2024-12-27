@@ -1,0 +1,14 @@
+[settings]
+filename = 047.jpg
+width = 1024
+height = 748
+dust_size = 18
+max_gap_value_from = 70
+max_gap_value_add_up_to = 30
+c_w_from = 0.8
+c_w_to = 1.5
+threshold = 162
+is_paper_white = False
+text = 十三載季冬辛卯朔建。
+zi_list = 801,66,941,197;799,211,945,329;812,346,949,526;815,519,949,689;665,67,792,203;666,212,793,364;646,383,797,512;643,523,788,676;511,72,641,217
+
