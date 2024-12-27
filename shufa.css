@@ -793,6 +793,11 @@ select:focus {
   --tw-ring-opacity: 0.3;
 }
 
+select option {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
 @media (prefers-color-scheme: dark) {
   select {
     background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%3E%3Cpath%20fill%3D%22%23999%22%20d%3D%22M5.293%207.293a1%201%200%20011.414%200L10%2010.586l3.293-3.293a1%201%200%20111.414%201.414l-4%204a1%201%200%2001-1.414%200l-4-4a1%201%200%20010-1.414z%22%2F%3E%3C%2Fsvg%3E');
@@ -921,6 +926,11 @@ textarea:focus {
   box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   --tw-ring-color: rgb(9 105 218 / var(--tw-ring-opacity, 1));
   --tw-ring-opacity: 0.3;
+}
+
+.select option {
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
 .textarea {
@@ -1594,12 +1604,14 @@ textarea:focus {
 
 .filter-group {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0.25rem;
 }
 
 .filter-label {
   white-space: nowrap;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 
 .filter-options {
