@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/祝允明箜篌引等詩卷/images/010.jpg
+width = 2223
+height = 2929
+kernel_size = 20
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 採桑岐路間 柔條紛冉2 葉
+zi_list = 689,94,1186,623;742,659,1178,1267;733,1094,1240,1713;680,1757,1252,2395;895,2288,1237,2813;13,138,489,689;16,762,551,1261;18,1271,606,1824;98,1775,456,2322;51,2455,505,2825
+
