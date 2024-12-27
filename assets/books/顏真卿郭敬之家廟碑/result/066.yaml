@@ -1,0 +1,14 @@
+[settings]
+filename = 066.jpg
+width = 720
+height = 1095
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 1.0
+c_w_to = 2.0
+threshold = 0
+is_paper_white = False
+text = 午朔廿一日甲寅建
+zi_list = 528,8,698,204;523,195,698,400;518,383,698,564;518,556,698,683;513,681,698,866;513,849,698,1080;347,8,520,217;339,206,522,420
+

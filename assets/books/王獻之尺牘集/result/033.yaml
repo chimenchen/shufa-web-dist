@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/王献之尺牍集/images/033.jpg
+width = 1518
+height = 2338
+kernel_size = 3
+max_gap_value_from = 32
+max_gap_value_add_up_to = 4
+c_w_from = 0.3
+c_w_to = 1.0
+is_paper_white = False
+text = 比者忉怛當獻死
+zi_list = 1162,290,1312,431;1143,486,1328,706;1135,757,1324,898;1138,955,1304,1113;1134,1125,1327,1470;856,302,1017,535;854,596,1016,805
+

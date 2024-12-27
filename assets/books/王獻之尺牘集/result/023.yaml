@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/王献之尺牍集/images/023.jpg
+width = 1497
+height = 2338
+kernel_size = 4
+max_gap_value_from = 81
+max_gap_value_add_up_to = 30
+c_w_from = 0.3
+c_w_to = 1.5
+is_paper_white = False
+text = 大軍
+zi_list = 1148,320,1355,518;1148,591,1338,1179
+

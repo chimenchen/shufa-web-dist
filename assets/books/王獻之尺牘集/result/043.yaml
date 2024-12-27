@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/王献之尺牍集/images/043.jpg
+width = 1530
+height = 2338
+kernel_size = 6
+max_gap_value_from = 40
+max_gap_value_add_up_to = 4
+c_w_from = 0.3
+c_w_to = 1.0
+is_paper_white = False
+text = 今 梨三百 晚雪 殊不能佳
+zi_list = 815,315,914,450;805,840,958,1083;840,1146,927,1327;845,1378,932,1569;772,1632,977,1817;827,1879,928,2061;506,329,701,544;505,561,692,779;516,817,695,1074;509,1095,696,1366
+
