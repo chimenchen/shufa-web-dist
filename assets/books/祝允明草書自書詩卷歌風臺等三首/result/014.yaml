@@ -1,0 +1,13 @@
+[settings]
+filename = /Users/robin/Files/01行动/04爱好/书法/字帖/祝允明草書自書詩卷歌風臺等三首/images/014.jpg
+width = 934
+height = 823
+kernel_size = 5
+max_gap_value_from = 51
+max_gap_value_add_up_to = 18
+c_w_from = 0.5
+c_w_to = 1.5
+is_paper_white = True
+text = 閏四月廿五日
+zi_list = 677,25,843,184;694,181,839,319;666,318,814,486;654,460,852,580;655,561,852,684;731,678,808,757
+
