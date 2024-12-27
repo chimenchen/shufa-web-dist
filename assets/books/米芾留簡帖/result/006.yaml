@@ -1,0 +1,14 @@
+[settings]
+filename = 006.jpg
+width = 1013
+height = 3543
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 示下。對客草{草}。芾{頓首}。
+zi_list = 146,186,431,530;208,607,357,811;109,911,406,1284;161,1328,406,1767;197,1771,347,2115;172,2426,318,2928
+
