@@ -1,0 +1,14 @@
+[settings]
+filename = 006.jpg
+width = 384
+height = 1955
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 珍愛。米一斛。將微
+zi_list = 119,22,323,287;123,274,315,582;101,610,260,891;95,958,242,1039;115,1035,303,1390;76,1390,254,1655;109,1655,333,1896
+

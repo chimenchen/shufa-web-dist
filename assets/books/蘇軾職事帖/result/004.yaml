@@ -1,0 +1,14 @@
+[settings]
+filename = 004.jpg
+width = 309
+height = 567
+dust_size = 5
+max_gap_value_from = 30
+max_gap_value_add_up_to = 30
+c_w_from = 0.2
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 成行否?不克詣違，千万
+zi_list = 173,36,279,128;182,148,268,241;186,256,264,337;190,360,273,425;196,428,291,534;7,29,134,155;26,169,156,304;42,315,118,408;45,405,117,487
+

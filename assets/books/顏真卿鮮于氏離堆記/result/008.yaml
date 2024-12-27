@@ -1,0 +1,15 @@
+[settings]
+filename = 008.jpg
+width = 600
+height = 907
+dust_size = 45
+max_gap_value_from = 36
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = False
+text = 處 置 使
+	入 忠 邵
+zi_list = 322,30,563,312;319,345,518,603;309,620,552,888;21,72,286,241;46,349,252,588;33,639,260,854
+
