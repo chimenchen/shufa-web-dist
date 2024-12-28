@@ -1044,6 +1044,10 @@ textarea:focus {
   pointer-events: none;
 }
 
+.static {
+  position: static;
+}
+
 .absolute {
   position: absolute;
 }
