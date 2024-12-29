@@ -1171,6 +1171,10 @@ textarea:focus {
   min-width: fit-content;
 }
 
+.min-w-full {
+  min-width: 100%;
+}
+
 .\!max-w-none {
   max-width: none !important;
 }
