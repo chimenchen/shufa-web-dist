@@ -8,7 +8,7 @@ max_gap_value_add_up_to = 30
 c_w_from = 0.2
 c_w_to = 1.5
 threshold = 73
-is_paper_white = False
+is_paper_white = True
 text = 辯才笑曰：「杜子美不云乎：『與
 	
 	子成二老，來往亦風流。』」因作
