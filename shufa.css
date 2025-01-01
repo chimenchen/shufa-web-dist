@@ -1157,6 +1157,10 @@ textarea:focus {
   min-height: 100vh;
 }
 
+.w-1\/4 {
+  width: 25%;
+}
+
 .w-16 {
   width: 4rem;
 }
@@ -1350,6 +1354,10 @@ textarea:focus {
 
 .border-b {
   border-bottom-width: 1px;
+}
+
+.border-r {
+  border-right-width: 1px;
 }
 
 .border-\[var\(--primary-color\)\] {
