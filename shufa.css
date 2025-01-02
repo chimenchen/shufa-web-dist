@@ -891,6 +891,25 @@ textarea:focus {
   background-color: var(--btn-hover);
 }
 
+.btn-sm {
+  border-radius: 0.375rem;
+  border-width: 1px;
+  border-color: var(--border-color);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+}
+
+.btn-sm:hover {
+  background-color: var(--btn-hover);
+}
+
 .select {
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -931,6 +950,11 @@ textarea:focus {
 .select option {
   background-color: var(--background-color);
   color: var(--text-color);
+}
+
+.select-sm {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .textarea {
@@ -1038,6 +1062,11 @@ textarea:focus {
   box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   --tw-ring-color: rgb(9 105 218 / var(--tw-ring-opacity, 1));
   --tw-ring-opacity: 0.3;
+}
+
+.input-sm {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .pointer-events-none {
@@ -1598,6 +1627,7 @@ textarea:focus {
 
 .btn-group {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
 }
 
