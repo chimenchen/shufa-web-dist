@@ -1,0 +1,14 @@
+[settings]
+filename = 052.jpg
+width = 1488
+height = 2338
+dust_size = 5
+max_gap_value_from = 57
+max_gap_value_add_up_to = 2
+c_w_from = 0.5
+c_w_to = 2.0
+threshold = 0
+is_paper_white = False
+text = 等誚謂語助者焉哉乎也
+zi_list = 784,329,904,449;780,479,905,608;788,678,920,832;794,857,903,1002;800,1043,924,1155;796,1184,904,1316;809,1342,916,1500;798,1522,913,1702;789,1716,898,1856;784,1892,929,1984
+
