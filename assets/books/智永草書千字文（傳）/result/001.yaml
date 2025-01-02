@@ -1,0 +1,14 @@
+[settings]
+filename = 001.jpg
+width = 2339
+height = 3309
+dust_size = 5
+max_gap_value_from = 42
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 天地玄黃宇宙洪荒日月
+zi_list = 599,229,741,455;575,514,814,699;590,767,749,987;592,1060,758,1320;598,1386,788,1666;561,1729,754,1931;584,1973,787,2204;572,2236,780,2505;636,2540,739,2674;599,2711,771,2943
+
