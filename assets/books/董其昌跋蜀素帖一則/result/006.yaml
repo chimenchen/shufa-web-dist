@@ -1,0 +1,14 @@
+[settings]
+filename = 006.jpg
+width = 981
+height = 3172
+dust_size = 5
+max_gap_value_from = 1
+max_gap_value_add_up_to = 30
+c_w_from = 0.5
+c_w_to = 1.5
+threshold = 0
+is_paper_white = True
+text = 董其昌題。
+zi_list = 27,840,211,1138;43,1220,200,1468;78,1534,196,1719;47,1833,239,2072
+
